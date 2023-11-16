@@ -1,0 +1,64 @@
+#contact{
+    width: 100%;
+    height: 100vh;
+    padding-top: 70px;
+  }
+  #contact .container{
+    width: 100%;
+    height: 80vh;
+    background: linear-gradient(90deg, white 80%,#b2744c);
+    border-radius: 10px;
+  }
+  #contact .heading{
+    font-size: 32px;
+    color: #3a1c07;
+  }
+  #contact .outlet{
+    font-family:'Poppins', sans-serif ;
+    font-size: 22px;
+    color: #3a1c07;
+  }
+  span{
+    color: #3a1c07;
+    font-size: 20px;
+  }
+  #contact p{
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+  }
+  #contact input{
+    width: 70%;
+    border: none;
+    border-bottom: 1px solid #572d10;
+  }
+  #contact-btn{
+    width: 200px;
+    height: 36px;
+    border: none;
+    background: #b2744c;
+    color: rgb(81, 17, 17);
+    font-weight: bold;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  #col{
+    width: 40%;
+    height: 56vh;
+    background: black;
+    margin-top: 78px;
+  }
+  #contact h1{
+    color:white;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  #contact #col p{
+    font-size: 25px;
+    color: rgb(204, 174, 174);
+    margin-left:13px;
+    margin-top: 20px;
+  }
+  
+  
