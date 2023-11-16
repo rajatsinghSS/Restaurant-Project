@@ -12,7 +12,7 @@ The API server manages user authentication requests, interacts with smart contra
 Smart contracts deployed on the blockchain govern user registration, login, and password management processes.
 These contracts provide a trustless and transparent mechanism for verifying user identities while maintaining decentralization.
 ## Key Contributors
-Rajat Kumar singh  * Smart Contract Developer, Blockchain Architect
-Mihir Singh
-Anisha Pandey
-Anjani Kumar Pathak
+- Rajat Kumar singh  * Smart Contract Developer, Blockchain Architect
+- Mihir Singh
+- Anisha Pandey
+- Anjani Kumar Pathak
