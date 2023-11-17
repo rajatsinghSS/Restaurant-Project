@@ -1,6 +1,7 @@
 # Restaurant-Project
 This project aims to revolutionize the security and decentralization of user access for restaurant platforms. 
 By leveraging blockchain technology, we've developed a robust authentication system that ensures the integrity and confidentiality of user credentials.
+-React,web3.js,Node.js,HTML,CSS,Ethereum Blockchain
 ## Features
 ### Blockchain-Powered Security:
 User authentication data, including email and password information, is stored on a secure and decentralized blockchain.
